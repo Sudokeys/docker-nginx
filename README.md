@@ -1,2 +1,2 @@
-# docker-nginx
-NGINX base Docker
+docker-nginx
+====================
